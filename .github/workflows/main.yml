@@ -13,8 +13,11 @@ jobs:
           git config --global user.email "careers@thebeelogix.com"
           git config --global user.name "CipherQuest"
 
-      - name: Clone Repository
+      - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          repository: CipherQuest/Zeerac-showcase  # Replace with your username and repository name
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in GitHub token for authentication
 
       - name: Fetch Latest Changes
         run: |
