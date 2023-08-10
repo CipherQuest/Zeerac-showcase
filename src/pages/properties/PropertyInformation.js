@@ -159,3 +159,4 @@ const PropertyInformation = () => {
 };
 
 export default PropertyInformation;
+# Contribution: Added comment
