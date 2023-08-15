@@ -49,3 +49,4 @@ const PartnersShowcase = () => {
 };
 
 export default PartnersShowcase;
+# Contribution: Added comment
