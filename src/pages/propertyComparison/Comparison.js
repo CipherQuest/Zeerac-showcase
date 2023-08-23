@@ -135,3 +135,4 @@ const Comparison = () => {
 };
 
 export default Comparison;
+# Contribution: Added comment
