@@ -29,3 +29,4 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
+# Contribution: Added comment
