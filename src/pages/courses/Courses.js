@@ -12,3 +12,4 @@ const Courses = () => {
 };
 
 export default Courses;
+# Contribution: Added comment
