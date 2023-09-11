@@ -16,7 +16,7 @@ jobs:
       - name: Clone Repository
         uses: actions/checkout@v2
 
-      - name: Fetch Latest Changes
+      - name: Fetch Latest Change
         run: |
           git fetch origin main
 
