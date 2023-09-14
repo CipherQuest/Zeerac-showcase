@@ -463,3 +463,4 @@ const SignUpPage = () => {
 };
 
 export default SignUpPage;
+# Contribution: Added comment
