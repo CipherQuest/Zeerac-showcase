@@ -176,3 +176,4 @@ const PropertiesContainer = () => {
 };
 
 export default PropertiesContainer;
+# Contribution: Added comment
