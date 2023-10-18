@@ -43,3 +43,4 @@ const SearchAutocomplete = ({ handleSearch }) => {
 
 export default SearchAutocomplete;
 # Contribution: Added comment
+# Contribution: Added comment
