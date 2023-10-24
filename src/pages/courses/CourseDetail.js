@@ -37,3 +37,4 @@ const CourseDetail = () => {
 
 export default CourseDetail;
 # Contribution: Added comment
+# Contribution: Added comment
