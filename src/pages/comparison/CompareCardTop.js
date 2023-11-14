@@ -133,3 +133,4 @@ const CompareCardTop = ({ property, remove }) => {
 export default CompareCardTop;
 # Contribution: Added comment
 # Contribution: Added comment
+# Contribution: Added comment
