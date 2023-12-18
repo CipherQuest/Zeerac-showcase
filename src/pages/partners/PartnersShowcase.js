@@ -53,3 +53,4 @@ export default PartnersShowcase;
 # Contribution: Added comment
 # Contribution: Added comment
 # Contribution: Added comment
+# Contribution: Added comment
