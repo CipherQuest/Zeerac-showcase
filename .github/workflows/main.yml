@@ -30,6 +30,6 @@ jobs:
           echo "# Contribution: Added comment" >> "$random_file"
           
           git add "$random_file"
-          git commit -m "Add comment to $random_file in folder $random_folder"          
+          git commit -m "Add comments to $random_file in folder $random_folder"          
           git push
           
