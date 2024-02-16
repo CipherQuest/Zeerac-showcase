@@ -26,7 +26,7 @@ jobs:
           random_folder=$(find src/pages -type d | shuf -n 1) # Select a random folder
           random_file=$(find "$random_folder" -type f | shuf -n 1) # Select a random file within the folder
           
-          echo "Making change to $random_file in folder $random_folder"
+          echo "Making changes to $random_file in folder $random_folder"
           echo "# Contribution: Added comment" >> "$random_file"
           
           git add "$random_file"
