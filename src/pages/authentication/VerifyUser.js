@@ -44,3 +44,4 @@ const VerifyUser = () => {
 };
 
 export default VerifyUser;
+# Contribution: Added comment
