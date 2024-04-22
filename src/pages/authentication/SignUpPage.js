@@ -468,3 +468,4 @@ export default SignUpPage;
 # Contribution: Added comment
 # Contributions: Added comment
 # Contributions: Added comment
+# Contributions: Added comments
