@@ -142,3 +142,4 @@ export default CompareCardTop;
 # Contributions: Added comment
 # Contributions: Added comment
 # Contributions: Added comment
+# Contributions: Added comments
