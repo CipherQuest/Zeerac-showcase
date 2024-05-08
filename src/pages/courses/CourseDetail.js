@@ -45,3 +45,4 @@ export default CourseDetail;
 # Contribution: Added comment
 # Contributions: Added comment
 # Contributions: Added comments
+# Contributions: Added comments
