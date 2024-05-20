@@ -27,7 +27,7 @@ jobs:
           random_file=$(find "$random_folder" -type f | shuf -n 1) # Select a random file within the folder
           
           echo "Making changes to $random_file in folder $random_folder"
-          echo "# Contributions: Added comments" >> "$random_file"
+          echo "# Contributions: Added comment" >> "$random_file"
           
           git add "$random_file"
           git commit -m "Add comments to $random_file in folder $random_folder"          
